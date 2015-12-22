@@ -220,15 +220,15 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {178618864,tonumber(our_id)},--Sudo users
+    sudo_users = {178618864,142806212,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[vip group manager v1
+    about_text = [[KING OF GROUPS
 
 Admins
 @TGDeveloper [developer & manager]
-
+@SH_R721 [manager]
 ]],
     help_text = [[
 Commands list :
