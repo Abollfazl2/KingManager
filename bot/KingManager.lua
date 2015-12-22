@@ -227,9 +227,8 @@ function create_config( )
     about_text = [[King Manager
 
 
-Admins
-@TGDeveloper [developer & manager]
-@SH_R2721
+Admin
+@SH_R2721 [ Developer& manager]
 
 Our channels
 @vgmsupport [persion]
