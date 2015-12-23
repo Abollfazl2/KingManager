@@ -224,14 +224,17 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[King Manager
+    about_text = [[The King Manager
 
-
-Admin
+EN
+Manager Your Groups
+Admin Of Bot
 @SH_R2721 [ Developer& manager]
 
-Our channels
-@vgmsupport [persion]
+FA
+مدیر گروه های شما
+ادمین 
+@SH_R2721 [سازنده ومدیر]
 ]],
     help_text = [[
 Commands list :
